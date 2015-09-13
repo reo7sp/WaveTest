@@ -2,7 +2,7 @@
 
 ![Screenshot](/screenshot.png?raw=true)
 
-[Video](/screencast.png)
+[Video](/screencast.gif)
 
 The more advanced version of this test is [here](https://github.com/reo7sp/FourierTransformTest)
 
