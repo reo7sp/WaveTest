@@ -1,10 +1,8 @@
 # WaveTest
 
+[**Video**](/screencast.gif)
+
 ![Screenshot](/screenshot.png?raw=true)
-
-[Video](/screencast.gif)
-
-The more advanced version of this test is [here](https://github.com/reo7sp/FourierTransformTest)
 
 ## Building and running
 ```
